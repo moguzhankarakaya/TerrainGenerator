@@ -1,4 +1,4 @@
-#Terrain Generator
+# TerrainGenerator
 A simple resource/asset generator for 3D game...
 
 This project consists of files and my implementation of Diamond and Square algorithm used to generate 3D terrain.
